@@ -1,0 +1,50 @@
+SOP - standard growth curves in FEM lab
+
+This protocol is for E.coli Growth Curve in Luria-Bertani medium
+
+Remember, do all work by flame to minimise chances of contamination!
+
+Day 1
+
+1.	Prepare LB broth and agar, autoclave and pour plates
+2.	Streak colonies on to fresh LB agar plates and growth overnight at 37°C
+
+Day 2
+
+3.	Autoclave pipette tips and flasks (3 per strain plus 1 for negative control) with sponge and foil
+4.	At ~ 4pm place 10ml of LB broth into labelled, sterile tubes (50ml or 25ml tubes) -> one per strain and one as negative control -> do by flame to keep sterile
+5.	Using a pipette tip or flamed loop (cooled), place one colony into each tube 
+6.	Loosen lids slightly and place a small bit of tape on the lid to stop it falling off.
+7.	Place tubes in beaker (pad with tissue) and place shaking overnight at 37°C
+
+Day 3
+
+8.	Turn on Spectrophotometer (needs > 15 mins for bulb to warm up) and check it is at 600nm
+9.	Remove overnight cultures from 37°C room and check negative control is clear -> if it is not clear, repeat Day 2. 
+10.	Place 1ml of your LB broth into a cuvette (if your negative control was clear you can use this), and put in Spec and press CAL to calibrate it and zero it according to the media you use. 
+11.	To measure the OD of each strain
+a.	Shake tube well and then pipette 1ml from tube into cuvette
+b.	Place in Spec and close lid 
+c.	Check reading -> if ABOVE 0.8 then you will need to dilute you culture 1 in 10 so:
+d.	Take 100ul of the same culture, place in a cuvette and then add 900ul of LB broth
+e.	Mix well by pipetting up and down 
+f.	Place in spec and take reading -> record result and x 10 as you used 1in10 dilution
+g.	Do same for all strains
+
+Calculations:
+In a flask containing 25ml of LB broth, you want a starting OD of 0.05
+To calculate how much overnight culture to add to 25 ml to make this OD we use the following (except we have an OD not a concentration):
+Concentration1 x volume1 = concentration2 x volume 2
+your OD x  V1 	=	0.05	x	25ml
+		V1 	= 	0.05	x	25ml 
+					Your OD
+
+Do this calculation for each strain and record results
+
+12.	Over the flame, place 25ml of LB media in labelled (autoclaved) flasks & add correct volume of overnight culture to give a starting OD of 0.05 (triplicate flasks for each strain) 
+13.	Set up negative control too
+14.	Place shaking at 37°C and after 30 minutes take first OD reading
+15.	Take 1ml from each flask and place in a cuvette (do this in 37°C room to avoid flasks cooling in lab)
+16.	Take OD reading as before and record in a table in lab book. 
+17.	When OD reaches ~0.8 you will need to start diluting your culture in the cuvette (same as before, just remove 100ul not 1ml, of culture and then add 900ul of LB media, mix and take reading
+18.	Continue taking readings ~ every 30 mins until stationary phase is reached
