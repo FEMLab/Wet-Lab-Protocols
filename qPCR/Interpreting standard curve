@@ -1,0 +1,21 @@
+# interpreting standard curve
+
+Plot Ct (y axis) gainst log copy number (x axis)
+and perform linear regression & get R2 and equation of the line. 
+
+Equation of the line should be in the form:
+y = mx + b
+
+where y= Ct value
+m = slope (ideal = 3.32 = 100% efficient)
+x = log10 template amount
+b = y intercept 
+Y intercept is an Indication of sensitivity of assay & how accurately the template has been quantified 
+
+intercept of 33 - 37 is 'perfect' intercept of > 37 either due to 
+1) poor efficiency ( slope will also be too big)                                                                       
+OR 2) inaccurate template quantif or degraded template 
+
+
+R2 value - this is a measure of the accuracy of dilutions and pipetting & as usual should be as near 1 as possible
+
