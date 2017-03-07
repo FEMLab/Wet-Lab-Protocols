@@ -1,0 +1,49 @@
+Potential Denitrification Assay
+
+ie rate of converting nitrates to N2O (when N2O -> N2 blocked)
+To check before starting:
+- pH of your soil
+- availability of acetylene gas -> ususally in small canister in gas cupboards outside. Check with Maurice.
+- Place ~ 1L of acetylene in a gas bag and keep gas bag in fume hood when not in use
+- Get vials for for storing gas prior to GC analysis (typically 7 ml vials from labco with double septum.)
+- Find you where you will send gas samples for GC analysis. 
+
+Stock solutions
+•	0.2 M KH2PO4 stock solution: 2.722 g KH2PO4 in 100 mL H2O. 
+•	0.2 M K2HPO4 stock solution: 3.843 g K2HPO4 in 100 mL H2O. 
+•	1M KNO3
+•	0.1M glucose
+•	0.1M succinate
+
+Denitrifying buffer solution:
+
+Dibasic and monobasic will be mixed to give buffer of same pH as soil (in this case soil has pH6): 
+
+•	Prepare final buffer to give 2 mM potassium buffer at pH 6 (13.2% dibasic and 86.8% monobasic) 
+-> make 10 ml of this and add to 990 ml of dH2O to give 2mM 
+•	Final concentration of KNO3 & sugars should be 10mM:
+•	For 200ml buffer, 
+o	add 2ml of stock KNO3 
+o	add 10 ml of glucose stock
+o	add 10 ml of succinate stock (combined this gives 10mM carbon source concentration)
+o	top up to 200 ml with the PO4 buffer
+•	Buffer solution should be stored 4 °C for a maximum of one week, best if used right away.
+
+Method
+1.	Weight 20g (fresh weight) soil into 125ml anaerobic vial.  
+2.	Add 20ml of buffer solution (if soil is very damp, place in funnel and use buffer to turn it into a 'slurry'
+which will then fall more easily into vial. 
+3.	Seal flasks with rubber bung and flush with anaerobic gas (I used H2/CO2 mix) for ~2 mins
+(use a smaller gauge needle to insert air and a larger gauge needle to allow air out of vial in order to reduce
+risk of dangerously over-pressurising vial.
+4.	After ~ 2 mins remove both input & output syring at once, then allow excess pressure to escape by inserting 
+an empty 50ml syringe (type with rubber seal) & allowing vial air pressure to return to atmospheric.
+5.	Insert 12 ml of acetylene gas (equivalent to 10% headspace) from gas bag. Start timer when acetylene added.  
+6.	Shake flasks gently on a shaker (90rpm) for 1.5 hours at 15 degrees C.
+7.	Take a 12 mL (for 7ml vial) headspace samples at 30, 60 & 90 mins. Keep flasks on shaker between sampling periods.
+8.	Make sure to keep a sample of soil for dry weight in order to convert results back to per gram dry weight
+
+* it's best to prelabel all your vials - keep an excel sheet where you put what sample is in each vial number
+** if you are storing your vials for any period of time (more than a month say) then you should take a couple of 'stanards'
+on each of the days you take gas samples. These 'standards' will be 12 ml of a known gas (eg N2/CO2) mix. You can therefore get an idea
+of any leakage with time and potentially adjust for this. 
