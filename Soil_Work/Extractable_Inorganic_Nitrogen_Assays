@@ -1,0 +1,165 @@
+Measurement of NH4+, NO2- and NO3- (from Bollman et al., 2011)
+
+For all absorbance readings, the plate reading in Dr Maria Tuohey's lab (Biochemistry) was used. 
+Check beforehand with Dr Tuohey & remember to sign log in book each time you use machine. 
+
+1.	Total reagents to prepare:
+
+	Potassium sulphate or chloride: 0.5M K2SO4 or KCl ->2M
+	Sodium hydroxide: 12g/L
+	Sodium nitroprusside solution: 
+o	85 g/l sodium salicylate and 0.6 g/l sodium nitroprusside
+	0.2 g/l sodium dichloroisocyanurate
+	10 mM NH4 calibration solution: 0.6607 g/l (NH4)2SO4
+o	Dilute the calibration solution to 200 mM NH4
+	NO2 determination reagent:
+o	Add 100 ml H3PO4 (85%) to 750 ml H2O, dissolve 10 g/l sulfanilamide (the solution might need to be heated slightly to dissolve the sulfanilamide), add 0.5 g/l naphthylethylene diamine dichloride (light sensitive, store in foil covered bottle).
+	10 mM NO2 calibration solution: 0.851 g/l KNO2 or 0.69 g/l NaNO2 
+o	Dilute the calibration solution to 100 mM NO2
+	Nitrates Catalyst solution: 
+o	35.4 mg/l CuSO4•5H2O and 900 mg/l ZnSO4•H2O
+	Sodium hydroxide: 40 g/l NaOH
+	Hydrazine sulphate solution: 1.71 g/l
+	Sulfanilamide solution in HCl: 
+o	Prepare 3.5M HCl and dissolve 10 g/l sulfanilamide (it might be necessary to warm this solution slightly to dissolve the sulfanilamide).
+	Naphthylethylene diamine dichloride (aka NEDD): 
+o	1 g/l (light sensitive, store in foil covered/amber bottle)
+	10 mM NO3 calibration solution: 1.011 g/l K NO3 or 0.8499 g/l NaNO3
+o	Dilute the calibration solution to 100 mM NO3 in a volumetric flask
+
+Standards: good for ~ 1 month
+Reagents for NH4 quantification: always fresh (no more than two days)
+Reagents for NO2 and NO3 quantification: last for months
+
+* Remove stored reagents from fridge ~2 hours before assay to equilibrate to room temperature *   
+
+2.	Preparation of soil sample
+Reagent: 2M KCl
+
+a.	On sample day, weigh out between 5 and 25 g fw of soil (depending how much sample available)
+b.	Mix soil 1:2 with  2M KCl (ie 10g soil with 20ml solution) -> stir well
+c.	Place on shaker in 15°C room for 1 hour
+d.	Pour through Whatman filter paper no 1 and collect liquid
+e.	If samples can’t be processed that day, aliquot out liquid and place at - 20 °C until process date
+f.  Remember to dry aliqout of soil at 110C in order to work back to /g dry weight of soil. 
+
+
+3.	NH4+ determination (Kandeler and Gerber, 1988)
+
+Reagents
+
+•	12 g/l sodium hydroxide
+•	Sodium nitroprusside solution: 85 g/l sodium salicylate and 0.6 g/l sodium nitroprusside
+•	0.2 g/l sodium dichloroisocyanurate
+•	10 mM NH4 calibration solution: 0.6607 g/l (NH4)2SO4
+•	Store all solutions at 4°C.
+•	Dilute the calibration solution to 200 µM NH4 in a volumetric flask.
+•	Dilute the calibration solution further to 10, 20, 50, 100, and 200 µM NH4 
+
+Two different approaches can be used to determine the NH4 concentration: 
+48-well plates and test tubes. The major difference is that the reagents in the test tubes can 
+be mixed immediately after addition of the different solutions, which makes the NH4 determination 
+more exact and reproducible. * In FEM lab we typically use 48 well plate as have many samples
+to analyse.
+
+Determination of the NH4 concentration using the plate-reader & 48 well plates
+
+1.	Prepare dilution range of standard
+2.	Use of 48-well plates/test tubes to determine the NH4 concentration.
+3.	Add 0.5 ml/2 ml of sample or calibration solution, include blank (water).
+4.	Mix sodium hydroxide and sodium nitroprusside solution in the ratio 2:1 (prepare only the amount required for the determination -> 20ml:10ml in falcon & wait few mins until very yellow).
+5.	Add 250 µl/1 ml of the mixture to each sample and shake the plate/vortex the test tube immediately.
+6.	Add 100 µl/0.4 ml of the sodium dichloroisocyanurate solution to each sample and shake the plate/vortex the test tube immediately.
+7.	Incubate in the dark for 30 min. (max 1 hour) -> now prepare nitrate plates
+8.	Measure the absorbance in the plate-reader at 660 nm/in the spectrophotometer at 660 nm against water.
+
+Calculation of the NH4 concentration [mM]
+•	Subtract the absorbance of the blank (dH2O) from all absorbance values
+•	Plot a calibration curve and calculate the slope and Y-intercept
+•	Calculate ammonium concentration by [S] ¼ ((Absorbance _ blank)
+•	Y-intercept)/slope.
+•	If the sample has been diluted, multiply by the dilution factor.
+In samples with very low NH4 concentration, NH4 can be determined with the fluorometric method by 
+Keroul and Aminot (1997) and Holmes et al. (1999).
+
+4.	NO2 plus NO3 determination (Shand et al., 2008)
+
+Reagents & preparation
+•	Catalyst: 35.4 mg/l CuSO4•5H2O and 900 mg/l ZnSO4•H2O
+•	40 g/l NaOH
+•	1.71 g/l hydrazine sulfate
+•	Sulfanilamide solution in HCl: prepare 3.5 M HCl and dissolve 10 g/l sulfanilamide (it might be necessary to 
+warm this solution slightly to dissolve the sulfanilamide). IE add 29 ml of 37% HCl to 71 ml Mq H2O (remember AlWays add Acid to Water!! not
+other way round!!) -> this will be warm so if you add sulfanilamide quickly, it'll be warm enough to dissolve it without
+additional heating. 
+•	1 g/l naphthylethylene diamine dichloride (light sensitive, store in amber/foil covered bottle)
+•	10 mM NO3 calibration solution: 1.011 g/l KNO3 or 0.8499 g/l NaNO3
+•	Store all solutions at 4C.
+•	Dilute the calibration solution to 100 µM NO3 in a volumetric flask.
+•	Dilute the calibration solution further to 25, 50, 75, and 100 µM NO3 
+
+Determination of the (NO2 plus NO3) concentration by using the plate reader
+(48-well plates)
+
+1.	Prepare dilution range of standard
+2.	Add 0.5 ml of sample or calibration solution, include blank (water) per well.
+3.	Add 75 µl catalyst and shake the plate.
+4.	Add 75 µl NaOH and shake the plate.
+5.	Add 75 µl hydrazine sulfate and shake the plate.
+6.	Incubate for 15 min. (can set up NO2 assay in this time as very quick)
+7.	Add 250 µl sulfanilamide solution and shake the plate.
+8.	Add 75 µl NEDD solution and shake the plate.
+9.	Incubate for 10 min. 
+10.	Measure the absorbance in the plate-reader at 540 nm.
+
+Calculation of the NO2 plus NO3concentration: as described above for NH4 concentration
+
+5.	NO2-  determination (Keeney and Nelson, 1982)
+
+Reagents
+•	NO2 determination reagent:
+Add 100 ml H3PO4 (85%) to 750 ml H2O, dissolve 10 g/l sulfanilamide (the solution might need to be heated slightly to dissolve the sulfanilamide), add 0.5 g/l naphthylethylene diamine dichloride (light sensitive, store in foil covered bottle).
+•	10 mM NO2 calibration solution: 0.851 g/l KNO2 or 0.69 g/l NaNO2.
+•	Store all solutions at 4°C.
+•	Dilute the calibration solution to 100 µM NO2 in a volumetric flask.
+•	Dilute the calibration solution further to 10, 25, 50, and 100 µM NO2 
+
+Determination of the NO2 concentration by using the plate-reader (48-well plates)
+
+1.	Prepare dilution range of standard
+2.	Add 0.5 ml of sample or calibration solution, include blank (water).
+3.	Add 125 µl of NO2 determination reagent to each sample and shake the plate.
+4.	Incubate in the dark for 10 min. 
+5.	Measure the absorbance in the plate-reader at 540 nm.
+
+Determination of the NO2 concentration by using the plate-reader (96-well plates) to screen isolation experiments
+
+1.	Transfer 10 µl of sample from a 96-well plate using an 8-channel pipette to a new 96-well plate. Use the same plate set-up as in the isolation experiment.
+2.	Add 90 µl water.
+3.	Prepare an extra plate with blank and calibration solutions.
+4.	Add 20 µl of the reagent and shake the plate.
+5.	Incubate in the dark for 10 min.
+6.	Measure the absorbance in the plate-reader at 540 nm.
+
+Calculation of the NO2 concentration [mM]: as described above for NH4 concentration 
+
+
+6.	NO3 determination
+
+The NO3 concentration can be determined by subtracting the NO2 concentration from the (NO2 plus NO3) concentration.
+
+Chemical formulas of reagents:
+
+Sodium salicylate (C7H5NaO3)  
+Sodium nitroprusside (Na2[Fe(CN)5NO])
+Sodium dichloroisocyanurate (C3Cl2N3NaO3)
+Ammonium sulphate ((NH4)2SO4)
+Phosphoric acid (H3PO4)
+Sulfanilamide (‎C6H8N2O2S)
+Naphthylethylene diamine dichloride (C10H7NHCH2CH2NH2 • 2HCl) 
+Potassium or sodium nitrite (KNO2 or NaNO2)
+Copper Sulphate (CuSO4•5H2O)
+Zinc sulphate (l ZnSO4•H2O) 
+Hydrazine sulphate ( ‎H6N2O4S) 
+3.5M Hydrochloric acid
+Potassium or sodium nitrate (NO3 or NaNO3)
