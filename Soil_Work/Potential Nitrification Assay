@@ -1,0 +1,36 @@
+Potential Nitrification Assay
+
+ie rate of converting NH4 to NO2 (when NO2 -> NO3 is blocked)
+
+Stock Solutions
+
+•	0.2 M KH2PO4 stock solution: 2.722 g KH2PO4 in 100 mL H2O. 
+•	0.2 M K2HPO4 stock solution: 3.843 g K2HPO4 in 100 mL H2O. 
+•	10 mM (NH4)2SO4 solution (same soln as used in available N assays) 
+•	0.5 M sodium chlorate (NaClO3): 5.3g in 100 ml dH2O
+•	2M KCl
+
+Final PN buffer preparation:
+
+Dibasic and monobasic will be mixed to give buffer of same pH as soil (in this case pH6): 
+
+(see ‘ph table kpo4’ in ‘Buffers & Media’ folder for what ratio to use for your soil pH)
+
+•	Prepare final buffer to give 2 mM potassium buffer at pH 6 (13.2% dibasic and 86.8% monobasic) 
+-> make 10 ml of this and add to 990 ml of dH2O to give 1L of 2mM buffer
+•	Add 5 ml of 0.5 M NaCO3 stock to this 1L to give a final concentration of 2.5 mM 
+•	Add 10 ml of (NH4)2SO4 stock to give final concentration of 100 µM
+
+Protocol:
+1.	Mix 10g soil (fresh weight) with 100 ml of PN buffer (freshly prepared) in a 250 ml conical flask
+2.	Stopper with sponge and put shaking (90 rpm) at 15°C 
+3.	For each sample do this x 2 -> one will be left for 24 hours and the other will be To (ie giving background NO2)
+4.	For To sample, immediately add 30 ml of 2M KCl and shake for 1 hour
+5.	After one hour, filter supernatant through whatman no1 paper -> store in fridge
+6.	After 24 hours, stop reaction with 30 ml of 2M KCl and shake for 1 hour
+7.	Filter as for T0 samples 
+8.	Now measure NO2 concentration as per normal available N assay (protocol for this is in ‘Soil Work’ folder)
+
+Sample storage: once extracted with KCl & filtered, can be stored in fridge for max 24 hours. 
+If NO2 can’t be measured within 24 hours, then samples can be stored at -20°C. 
+Ideally though, should analyse within 24 hours and not freeze. 
