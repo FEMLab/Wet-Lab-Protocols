@@ -1,0 +1,35 @@
+DNA extraction from Pure culture using Phenol Chloroform method
+(by C Thorn - adapted from Minas et al., 2011).
+Growth of Bacterial cultures
+Grow overnight cultures: 25ml LB inoculated with one colony and put at 37°C shaking, overnight
+Method
+a.	Prepare CTAB buffer 
+
+Component	Concentration	Volume (ml)/weight (g)
+		
+CTAB	                2% w/v	    4g
+Tris–HCl (pH = 8.0)	  100 mM	    13.3ml (of 1.5M)
+EDTA (ph 8)	          20 mM	      8ml (of 0.5M)
+NaCl	                1.4 M	      16.4g
+Total		          200ml
+
+Adjust pH of lysis buffer to 5.0 before autoclaving.
+
+b.	Prepare isopropanol + 7.5M ammonium acetate or 30% PEG NaCl solution (see Griffith et al., 2000)
+c.	Protocol
+
+	Spin down 1.5ml of cells at 9000g for 5 mins (best to do in screw top tube as using phenol later)
+	Wash once in nuclease free water, spin again at 9000g for 5 minutes and pour off supernatant
+	Re-suspend pellet in 600 μL of CTAB lysis buffer
+	Add 0.25 g of mixed size, nuclease free glass/zirconia beads
+	Add 500μL of Phenol:chloroform:isoamyl alcohol (25:24:1 ph ~8), mix thoroughly and incubate at room temp for 10 mins
+	Vortex on high speed for 2 minutes (optional step to improve yield if necessary:  incubate at 65 °C for 60 min before next step)
+	Centrifuge at 12 000 g for 5 min at 4 °C.
+	Transfer upper phase to fresh 2-mL microcentrifuge tubes and add 600 μl of chloroform: isoamyl alcohol (24 : 1). 
+	Centrifuge at 12 000 g for 15 min at 4 °C
+	Remove upper phase to a fresh tube 
+	Add 450 μL of isopropanol (Sigma-Aldrich) containing 50 μL of 7.5 M ammonium acetate (Fisher).  OR  1ml of 30% PEG NaCl 
+	Incubate at −20 °C overnight if with isopropanol or in fridge if PEG
+	Centrifuge at 7500 g for 10 min at 4 °C, and discard supernatant. 
+	Wash resulting DNA pellet three times in 1 mL of 70% (v/v) ethanol (Fisher). 
+	Air-dry pellet and re-suspended in 200 μL of nuclease free water
